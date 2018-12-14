@@ -1,3 +1,8 @@
+
+<?php
+global $redux_demo;
+ //var_dump($redux_demo);exit;
+?>
 <?php
 /**
  * The blog template file.

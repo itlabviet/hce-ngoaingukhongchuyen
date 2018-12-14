@@ -1,3 +1,4 @@
+
 <?php
 /**
  * Flatsome functions and definitions

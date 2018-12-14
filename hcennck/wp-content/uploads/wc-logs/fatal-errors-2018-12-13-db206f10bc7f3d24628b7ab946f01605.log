@@ -1,0 +1,18 @@
+2018-12-13T04:13:29+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in E:\xampp\htdocs\hcennck\wp-content\themes\flatsome\functions.php on line 14
+
+2018-12-13T04:14:13+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in E:\xampp\htdocs\hcennck\wp-content\themes\flatsome\functions.php on line 14
+
+2018-12-13T04:14:24+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in E:\xampp\htdocs\hcennck\wp-content\themes\flatsome\functions.php on line 14
+
+2018-12-13T04:15:07+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in E:\xampp\htdocs\hcennck\wp-content\themes\flatsome\functions.php on line 14
+
+2018-12-13T04:15:09+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in E:\xampp\htdocs\hcennck\wp-content\themes\flatsome\functions.php on line 14
+
+2018-12-13T04:24:07+00:00 CRITICAL require_once(): Failed opening required 'E:\xampp\htdocs\hcennck\wp-content\themes\flatsome/ReduxCore/sample-config.php' (include_path='E:\xampp\php\PEAR') in E:\xampp\htdocs\hcennck\wp-content\themes\flatsome\functions.php on line 7
+
+2018-12-13T04:24:10+00:00 CRITICAL require_once(): Failed opening required 'E:\xampp\htdocs\hcennck\wp-content\themes\flatsome/ReduxCore/sample-config.php' (include_path='E:\xampp\php\PEAR') in E:\xampp\htdocs\hcennck\wp-content\themes\flatsome\functions.php on line 7
+
+2018-12-13T04:24:45+00:00 CRITICAL require_once(): Failed opening required 'E:\xampp\htdocs\hcennck\wp-content\themes\flatsome/ReduxCore/sample-config.php' (include_path='E:\xampp\php\PEAR') in E:\xampp\htdocs\hcennck\wp-content\themes\flatsome\functions.php on line 19
+
+2018-12-13T04:24:51+00:00 CRITICAL require_once(): Failed opening required 'E:\xampp\htdocs\hcennck\wp-content\themes\flatsome/ReduxCore/sample-config.php' (include_path='E:\xampp\php\PEAR') in E:\xampp\htdocs\hcennck\wp-content\themes\flatsome\functions.php on line 19
+
